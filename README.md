@@ -1,3 +1,7 @@
+<!-- SPDX-License-Identifier: Apache-2.0
+     SPDX-FileCopyrightText: 2026 Adam Sealey -->
+<!-- SPDX-License-Identifier: Apache-2.0
+     SPDX-FileCopyrightText: 2026 Adam Sealey -->
 # heatSheetStamper
 
 Adds a DQ / NS / DFS scoring stamp to the bottom-right corner of every page in a swim meet heat sheet PDF.
@@ -109,3 +113,11 @@ pylint stamp_pdf.py
 ```
 
 68 tests cover unit behavior, integration across page sizes, CLI argument handling (including `--auto`), and security cases including: corrupt/empty/encrypted PDFs, symlink attacks, path traversal, non-regular file input, decompression bomb limits, page count limits, atomic write safety, and terminal escape injection.
+
+## License
+
+Licensed under the Apache License, Version 2.0. See [LICENSE](LICENSE) and [NOTICE](NOTICE).
+
+This project is not affiliated with, endorsed by, or sponsored by any company. "ReportLab", "pypdf", and other names are trademarks of their respective companies, used here only to identify the libraries this software uses.
+
+

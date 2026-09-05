@@ -1,0 +1,16 @@
+rowMaster
+Copyright 2026 Adam Sealey
+
+This product includes software developed by Adam Sealey
+(https://adamsealey.com).
+
+Licensed under the Apache License, Version 2.0. See the LICENSE file
+in the root of this repository for the full license text.
+
+---
+
+This repository includes the Rowing Stroke Capture Format (RSCF), an open
+file format for per-stroke rowing data including full force curve capture.
+RSCF is intended to be freely implementable by anyone. See
+docs/collector-app-spec.md for the format specification and its
+royalty-free implementation grant.

@@ -1,3 +1,5 @@
+<!-- SPDX-License-Identifier: Apache-2.0
+     SPDX-FileCopyrightText: 2026 Adam Sealey -->
 # CLAUDE.md — heatSheetStamper
 
 Coding project. Implementation detail (PDF-stamping internals, safety-limit
