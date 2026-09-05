@@ -1,7 +1,5 @@
 <!-- SPDX-License-Identifier: Apache-2.0
      SPDX-FileCopyrightText: 2026 Adam Sealey -->
-<!-- SPDX-License-Identifier: Apache-2.0
-     SPDX-FileCopyrightText: 2026 Adam Sealey -->
 # heatSheetStamper
 
 Adds a DQ / NS / DFS scoring stamp to the bottom-right corner of every page in a swim meet heat sheet PDF.
