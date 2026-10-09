@@ -1,4 +1,4 @@
 # SPDX-License-Identifier: Apache-2.0
 # SPDX-FileCopyrightText: 2026 Adam Sealey
-pypdf>=6,<7
+pypdf>=6.19.0,<7
 reportlab>=4
