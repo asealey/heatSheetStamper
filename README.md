@@ -2,6 +2,8 @@
      SPDX-FileCopyrightText: 2026 Adam Sealey -->
 # heatSheetStamper
 
+> **Archived.** This tool now lives in [AOTools](https://github.com/asealey/AOTools/tree/main/heat-sheet-stamper), which is the maintained version.
+
 Adds a DQ / NS / DFS scoring stamp to the bottom-right corner of every page in a swim meet heat sheet PDF.
 
 ## Requirements
